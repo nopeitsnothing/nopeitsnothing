@@ -12,8 +12,8 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
 
 #### GitOps:  
 - Github:
-<a rel="me" href="https://github.com/sharp-tailed">@sharp-tailed</a>
-- 0xacab: <a rel="me" href="https://0xacab.org/sharptail">@sharptail</a> / [over Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/sharptail)
+<a rel="me" href="https://github.com/nopeitsnothing">@nopeitsnothing</a>
+- 0xacab: <a rel="me" href="https://0xacab.org/nopeitsnothing">@nopeitsnothing</a> / [over Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/nopeitsnothing)
 
 #### ChatOps
 - Most trust:  
