@@ -5,8 +5,10 @@ Since around 2011, I have dedicated most of my free time to helping further my f
 Keyoxide: [rsa4096/0xB208C4084A2C582D](https://keyoxide.org/hkp/no%40anonymousplanet.org)🔑  
 FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)  
 
+Please note I am no longer using DNSSEC with OpenPGP.
+
 #### I2P:
-- Mail: [rsa4096/0x230ED97D001F5640](mailto:literallynothing@mail.i2p)[🔑](/pgp.txt)
+- Mail: [literallynothing@mail.i2p](mailto:literallynothing@mail.i2p)[🔑](/pgp.txt)
 - Web: [nopenothinghere.i2p](http://nopenothinghere.i2p/) / base32: [http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/](http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/)  
 
 
@@ -14,6 +16,7 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
 - Github:
 <a rel="me" href="https://github.com/nopeitsnothing">@nopeitsnothing</a>
 - 0xacab: <a rel="me" href="https://0xacab.org/nopeitsnothing">@nopeitsnothing</a> / [over Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/nopeitsnothing)
+- Darktea (Git over Tor): <a rel="me" href="it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/thehidden">it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/thehidden</a>
 
 #### ChatOps
 - Most trust:  
@@ -22,7 +25,7 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
   - Signal (ask)
 - Less trust:  
   - [(A/I) th.anon@insicuri.net](xmpp:th.anon@insicuri.net)  
-  - [(Disroot) sharptail@disroot.org](xmpp:sharptail@disroot.org)    
+  - [(Disroot) nopeitsnothing@disroot.org](xmpp:nopeitsnothing@disroot.org)    
   - [(Pwned.Life) throwaway1316@pwned.life](xmpp:throwaway1316@pwned.life)  
 - Not often used:  
   - Interlinked: \[[alyssa@irc.interlinked.me](irc://irc.interlinked.me/alyssa)\]
