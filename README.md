@@ -1,4 +1,4 @@
-### CEH v11 | (ISC)² | Linux+ | Cisco CCNA | Security+ | PenTest+
+### CEH v12 | (ISC)² | Linux+ | Cisco CCNA | Security+ | PenTest+
 
 Since around 2011, I have dedicated most of my free time to helping further my favorite open-source projects. You probably know me from [Anonymous Planet](https://anonymousplanet.org/). I frequent the [Privacy, Security and Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org) space. If you would like to get in touch, feel free. I will update this fairly often. Below you can find my various accounts. [**matrix**] is your best bet.
 
