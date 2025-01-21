@@ -1,11 +1,7 @@
-### CEH v12 | (ISC)² | Linux+ | Cisco CCNA | Security+ | PenTest+
-
 > **_Neo**: *"There is no spoon?"*  
 > **_Spoon Boy**: *"…it is not the spoon that bends. It is only yourself."* - The Matrix
 
-Since around 2011, he has dedicated most of his free time to helping further his favorite open-source projects. You might know him from [Anonymous Planet](https://anonymousplanet.org/). He frequents the [Privacy, Security and Anonymity](https://matrix.to/#/#p-s-a.anonymousplanet.net) space.
-
-Keyoxide: [ed25519/0xF1CB32F67E3302A1](https://keyoxide.org/hkp/nopenothinghere%40proton.me)🔑
+Keyoxide: [ed25519/0xF1CB32F67E3302A1](https://keyoxide.org/8B3A74890536BAD50D9376EBF1CB32F67E3302A1)🔑
 FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
 
 ---
@@ -13,7 +9,6 @@ FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
 ## $ whoami
 
 ./ **(he/him) Ex-Signals Intelligence Analyst and systems admin**  
-./ **An admin of [Privacy, Security and Anonymity](https://matrix.to/#/#p-s-a.anonymousplanet.net)**
 
 #### 🕵🏻 I2P
 - 📧 [literallynothing@mail.i2p](mailto:literallynothing@mail.i2p)[🔑](/pgp.txt)
@@ -36,10 +31,6 @@ FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
   - Interlinked: \[[alyssa@irc.interlinked.me](irc://irc.interlinked.me/alyssa)\]
   - CryptoStorm: \[[th-anon@irc.cryptostorm.is](irc://irc.cryptostorm.is/th-anon) - [Tor v3](ircs://stormwio4d5qkewys7ymh5lezxs35qweyomvyeqddcxgkslt3sfltsad.onion:6697/cryptostorm) / [Tor v3 Web](http://stormu36id5e62n2i7kq3v7batuy34dimpijx5euklgl5bwi65eaycyd.onion/chat/)\]  
   - LiberaChat: \[[gentle@irc.libera.chat](irc://irc.libera.chat/) - [Clear](ircs://irc.libera.chat:6697) / [Web](https://web.libera.chat/)\]  
-
-I also tweet <a href="https://ioc.exchange/@unknown">@unknown</a> on [ioc.exchange](https://ioc.exchange) on Mastodon.
-
-### Welcome to nowhere.
 
 ### RIP
 LulzBoat, D4rk0d3, NovaCygni, storm
